@@ -7,3 +7,4 @@ jobs:
     steps:
       - checkout
       - run: echo "First of all, hello"
+      - run: notacomand
